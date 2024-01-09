@@ -17,9 +17,9 @@ Then, you have to go over to the front and change the `url` variable under `endp
 
 **BE AWARE: If you wish to run this project on your own mobile device rather than a local virtual machine you must:**
 
-1- Bring up the terminal.
-2- plug in the `ipconfig` command.
-3- Look for your ipv4 address.
-4- plug it into the `url` variable in the frontend.
-5- It should work now!
+1. Bring up the terminal.
+2. Plug in the `ipconfig` command.
+3. Look for your ipv4 address.
+4. Plug it into the `url` variable in the frontend.
+5. It should work now!
 
